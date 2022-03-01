@@ -1,0 +1,250 @@
+img {
+    float: left;
+    width:  100px;
+    height: 170px;
+    object-fit: cover;
+}
+
+.wlc {
+    margin-left: 40%;
+}
+
+.body {
+    padding: 12px;
+}
+
+.blog-title {
+    margin-bottom: 0 !important;
+    text-size-adjust: 30px;
+    font-weight: normal;
+}
+
+.blog-desc {
+    margin: 6px;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    padding: 6px 16px;
+    text-decoration: none;
+    border-radius: 122px;
+    cursor: pointer;
+    margin: 35px 0px;
+}
+
+.img-top {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.blog-1 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+
+.top-left {
+    color: white;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.intro {
+    color: rgb(0, 0, 0);
+}
+
+body {
+    font-family: Fredoka;
+    background-color: grey;
+}
+
+.blog-2 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.s-plaid {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.sp-body {
+    padding: 12px;   
+}
+
+.sp-title {
+    margin-bottom: 0 !important;
+}
+
+.sp-desc {
+    margin: 6px;
+}
+
+.blog-3 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.t {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.t-body {
+    padding: 12px;   
+}
+
+.t-title {
+    margin-bottom: 0 !important;
+}
+
+.t-desc {
+    margin: 6px;
+}
+
+.blog-4 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.y {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.y-body {
+    padding: 12px;   
+}
+
+.y-title {
+    margin-bottom: 0 !important;
+}
+
+.y-desc {
+    margin: 6px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.blog-5 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.cyber {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.c-body {
+    padding: 12px;   
+}
+
+.c-title {
+    margin-bottom: 0 !important;
+}
+
+.c-desc {
+    margin: 6px;
+}
+
+.blog-6 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.semi {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.se-body {
+    padding: 12px;   
+}
+
+.se-title {
+    margin-bottom: 0 !important;
+}
+
+.se-desc {
+    margin: 6px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.blog-7 {
+    background-color: rgb(58, 57, 57);
+    margin: 12px;
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    height: 320px;
+}
+
+.ter {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.ter-body {
+    padding: 12px;   
+}
+
+.ter-title {
+    margin-bottom: 0 !important;
+}
+
+.ter-desc {
+    margin: 6px;
+}
+
+.head {
+    width: 100%;
+}
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+*{
+    margin: 0;
+}
